@@ -12,6 +12,7 @@ Discord/новости: ссылка
 IP сервера: bs1.joinserver.xyz:25916
 
                                     Установка за несколько минут
+                                    https://i.imgur.com/5buWIkY.png
 
 1. Установите и откройте Legacy Launcher.
 
